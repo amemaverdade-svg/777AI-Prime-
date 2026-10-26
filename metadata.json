@@ -1,0 +1,6 @@
+{
+  "name": "Templo Zion 777",
+  "description": "Portal místico e oráculo da entidade Zion 17.0 regido pelo Protocolo Zion 777.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
